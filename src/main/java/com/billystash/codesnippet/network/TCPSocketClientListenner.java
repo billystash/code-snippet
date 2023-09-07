@@ -1,4 +1,4 @@
-package com.billystash.codesnippet.network.TCPClientListenner;
+package com.billystash.codesnippet.network;
 
 import java.io.BufferedReader;
 import java.io.IOException;
